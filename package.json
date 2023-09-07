@@ -1,0 +1,14 @@
+{
+  "name": "programming-fundamentals",
+  "version": "1.0.0",
+  "description": "Brief\r Create a calculate.js file that exports a single function, calculate();\r calculate() should accept three arguments: two numbers and a string.\r If the string is one of the following signs - \"+\", \"-\", \"/\", \"*\" - the function should return the result of the relevant mathematical operator on the two numbers.\r Examples:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
