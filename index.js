@@ -1,4 +1,4 @@
-const calculate = require('./chalenge.js');
+const calculate = require('./calculate.js');
 const prompt = reqire(`simple-prompt`);
 const promptsync = require(`prompt-sync`);
 prompt.start();
