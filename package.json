@@ -12,5 +12,13 @@
     "ansi-colors": "^4.1.3",
     "prompt-sync": "^4.2.0",
     "simple-prompt": "^0.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesThreadgill97/Programming-fundamentals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamesThreadgill97/Programming-fundamentals/issues"
+  },
+  "homepage": "https://github.com/JamesThreadgill97/Programming-fundamentals#readme"
 }
